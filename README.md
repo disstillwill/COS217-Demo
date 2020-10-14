@@ -3,7 +3,7 @@
 This repository contains an example revamp of Princeton Computer Science's 
 [COS 217](https://www.cs.princeton.edu/courses/archive/fall20/cos217/) course website. 
 The demo was built using the [Primer](https://primer.style/) CSS framework and can be 
-accessed [here](https://disstillwill.github.io/cos217-demo/).
+accessed [here](https://disstillwill.github.io/COS217-Demo/).
 
 ## Issues
 
