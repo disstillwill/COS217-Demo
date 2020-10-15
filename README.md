@@ -11,3 +11,4 @@ The demo was thrown together very quickly, so there are a few minor issues:
 
 * The footer does not stick to the bottom if the page content is not long enough
 * Some of the page content was not converted to HTML from Markdown correctly
+* The site is not fully responsive, header links don't collapse on smaller widths
